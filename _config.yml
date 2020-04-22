@@ -18,17 +18,17 @@ title: Yu Tian's Resume
 name: Yu Tian
 email: yu.tian8328@gmail.com
 email_full: mailto:yu.tian8328@gmail.com
-website: yutian8328/github.io/
+website: yutian8328/github.io/vitea
 website_full: https://yutian8328.github.io/vitea
 github: trending
 tel: +41 8084700
 tel_full: tel:+418084700
 google_maps: 'lace/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
-  street: Kirjaty 
-  postcode: 00170
-  city: Edinburgh
-  country: United Kingdom
+  street: Kirjatyöntekijiankatu
+  postcode: "00170"
+  city: Helsinki
+  country: Finland
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
